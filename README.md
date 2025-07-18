@@ -1,5 +1,5 @@
 # sky-box-changer
-# Made By Glide!
+# Made By X84Z!
 roblox script gui change skybox
 
 Works In Any Game
